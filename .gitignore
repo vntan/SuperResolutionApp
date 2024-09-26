@@ -1,0 +1,4 @@
+__pycache__/*
+temp/*
+models/__pycache__/*
+ui/__pycache__/*
